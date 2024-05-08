@@ -20,7 +20,7 @@ Group voice chat application based on the [Pion WebRTC Go library](https://githu
 
 ## Installation and Running
 
-To start the frontend, run `npm start`. For the backend, execute the appropriate GoLang run command.
+To start the frontend, run `npm start`. For the backend, execute the appropriate GoLang run `go run main.go`.
 
 ## Design Choices
 
