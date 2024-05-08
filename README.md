@@ -14,4 +14,4 @@ group voice chat. based on [pion](https://github.com/pion/webrtc) webrtc go libr
 
 frontend part is here https://github.com/fletcherist/webrtc-voice-chat-client its `create-react-app` with typescript preset
 
-<img src="https://capture.chat/message/15fef35c9f729d77/16055d9409742d71eb5f38f1_604" height=400 />
+![Landing home page](https://github.com/Ashishkr05/Voice-communication-app/assets/77094389/b2abd273-2738-4156-b47c-a82132388105)
