@@ -10,7 +10,6 @@ Group voice chat application based on the [Pion WebRTC Go library](https://githu
 
 ## Demo
 
-[https://webrtc-voice-chat.netlify.app/test](https://webrtc-voice-chat.netlify.app/test)
 
 ### Home Page
 ![Landing home page](https://github.com/Ashishkr05/Voice-communication-app/assets/77094389/b2abd273-2738-4156-b47c-a82132388105)
